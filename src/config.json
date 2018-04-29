@@ -1,0 +1,8 @@
+{
+  "username": "AlexaCustomSkill",
+  "password": "",
+  "maxResults": "50",
+  "endpoint": "http://<Hostname>.compute-1.amazonaws.com:8080/rest/api/2/search",
+  "boardUrl": "http://<Hostname>.compute-1.amazonaws.com:8080/rest/agile/1.0/board",
+  "rootContextUrl" : "http://<Hostname>.compute-1.amazonaws.com:8080/rest"
+}
