@@ -1,0 +1,1 @@
+The build artifact gets placed here once we run the build command.
